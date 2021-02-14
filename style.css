@@ -1,0 +1,48 @@
+form{
+    background-color: #61EDDF;
+}
+
+header{
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: sans-serif;
+    color: #black;
+    text-decoration:none
+}
+
+header1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: sans-serif;
+    color: #black;
+    text-decoration:none
+}
+
+form1a{
+  align-items: baseline;
+  display: flex;
+  flex-direction: row;
+  height: 25px;
+  padding-right: 50px;
+  margin-left: 25px;
+}
+
+form1b{
+  align-items: baseline;
+  display: flex;
+  flex-direction: row;
+  height: 25px;
+  padding-right: 50px;
+  margin-left: 25px;
+}
+
+header2{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: sans-serif;
+    color: #black;
+    text-decoration:none
+}
